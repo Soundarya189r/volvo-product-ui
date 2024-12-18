@@ -1,0 +1,7 @@
+
+.chevronContainer{
+    margin-right: 24px;
+    flex-direction: row!important;
+    align-items: flex-end;
+    justify-content: flex-end;
+}

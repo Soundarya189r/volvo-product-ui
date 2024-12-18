@@ -1,0 +1,19 @@
+
+.alignButton {
+    display: flex;
+    text-decoration: none;
+
+}
+
+.buttonLabel{
+    color: #1c6bba!important;
+    font-weight: bolder!important;
+}
+
+.buttonWrapper{
+    flex-direction: row!important;
+    gap:6px;
+    justify-content: space-around;
+    
+
+}

@@ -1,0 +1,16 @@
+.carouselIndicators{
+display: flex;
+color: gray!important;
+margin-top: 24px;
+width: 24px;
+height: 24px;
+}
+
+.carouselIndicators:hover, .carouselIndicators:active{
+    color:black!important
+}
+
+.carouselWrapper{
+    flex-direction: row!important;
+     justify-content: center;
+}
